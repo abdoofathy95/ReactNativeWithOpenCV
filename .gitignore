@@ -1,0 +1,6 @@
+node_modules/
+.expo/
+src/deps/gyp
+android/.gradle
+OpenCV-android-sdk
+npm-debug.*
